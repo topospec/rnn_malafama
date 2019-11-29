@@ -7,6 +7,9 @@ Idea by @alexing
 
 **Attention: this project is not finished at all, some details remain to be finalized.**
 
+![logo](https://raw.githubusercontent.com/caparrosmatias/rnn_malafama/master/hernan.PNG)
+
 This bot predicts the next character with tensorflow library, in this case, trained with songs of Mala Fama, the (¿famous?) argentinian cumbia band. The dataset is also available.
+
 
 You can listen their songs here: https://www.youtube.com/channel/UCLo_L-3voUZQfB8ARAswgeQ
