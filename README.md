@@ -11,5 +11,14 @@ Idea by @alexing
 
 This bot predicts the next character with tensorflow library, in this case, trained with songs of Mala Fama, the (¿famous?) argentinian cumbia band. The dataset is also available.
 
-
 You can listen their songs here: https://www.youtube.com/channel/UCLo_L-3voUZQfB8ARAswgeQ
+
+One of the generated lyrics:
+
+> Ramon dejo la bici afuera y se la hicieron desaparecer
+
+> y vos sin haberlo visto lo mandaste al frente a catriel
+
+> Vos sos buche, sos re chebu...
+
+> Mandale mechaaaaaa
